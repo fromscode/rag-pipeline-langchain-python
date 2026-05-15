@@ -5,7 +5,7 @@ The mitochondrion is often called the powerhouse of the cell.biology
 Shakespeare wrote many famous plays, including Hamlet and Macbeth.literature
 Water boils at 100°C under standard atmospheric pressure.physics
 The Great Wall of China was built to protect against invasions.history
-Honey never spoils due to its low moisture content and acidity.", "catego.science
+Honey never spoils due to its low moisture content and acidity.science
 The speed of light in a vacuum is approximately 299,792 km/s.physics
 Newton's laws describe the motion of objects.physics
 The human brain has approximately 86 billion neurons.biology
@@ -47,4 +47,4 @@ The human body is made up of about 60% water.biology
 The Industrial Revolution transformed manufacturing and transportation.history
 Vincent van Gogh painted Starry Night.art
 Airplanes fly due to the principles of lift and aerodynamics.physics
-Renewable energy sources include wind, solar, and hydroelectric powe.": "energ
+Renewable energy sources include wind, solar, and hydroelectric power.energy
